@@ -3,6 +3,6 @@ This codebase accompanies the paper "Bidirectional Behavioral Sampling: Understa
 The codebase contains one-dimensional diagnostic simulations to validate the theoretical analysis presented in the paper. 
 
 
-1. ```perception_retention_inequality.ipynb``` runs 1D diagnostic simulations to validate the Perception-Retention Inequality and Corollary 2 from the paper. 
+1. ```1Dsimulations.ipynb``` runs 1D diagnostic simulations to validate the Perception-Retention Inequality and Corollary 2 from the paper. 
 
-2. ContextValuableSimulation.ipynb validates Proposition 4 from the Appendix. 
+2. ```ContextValuableSimulation.ipynb``` validates Proposition 4 from the Appendix. 
