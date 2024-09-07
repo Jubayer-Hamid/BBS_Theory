@@ -1,5 +1,5 @@
-# Bidirectional Behavioral Sampling (Theory)
-This codebase accompanies the paper "Bidirectional Behavioral Sampling: Understanding and Improving Action Chunking for Generative Behavioral Cloning".
+# Bidirectional Decoding (Theory)
+This codebase accompanies the paper "Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling" by Yuejiang Liu*, Jubayer Ibn Hamid*, Annie Xie, Yoonho Lee, Maximilian Du, Chelsea Finn.
 The codebase contains one-dimensional diagnostic simulations to validate the theoretical analysis presented in the paper. 
 
 
